@@ -1,0 +1,13 @@
+MYSQL_SERVER_URL = 192.168.0.41
+MYSQL_SERVER_PORT = 3306
+MYSQL_DB_NAME = szpik
+MYSQL_DB_USERNAME = root
+MYSQL_DB_PASSWORD = mainpass
+URL = https://dev1.capitalservice.pl/auth/
+SCIEZKA_GECKODRIVER = /lib/geckodriver
+SCIEZKA_CHROME = /lib/chromedriver
+CRON_ODSETKI = szpik/public/cron/odsetki/zlecnaliczanie/id_pozyczki/
+CRON_NALICZANIE_PROWIZJI = szpik/public/cron/naliczeniekosztowraty/naliczratalna/id_pozyczki/
+CRON_PROLONGATA = szpik/public/test/pozyczki/prolongata/id_pozyczki/
+widokKlienta = szpik/public/daneklienta/index/index/id/
+SCIEZKA_CSV = /home/kamil/Pulpit/Oddział Plus/configuration/przypadki.csv
